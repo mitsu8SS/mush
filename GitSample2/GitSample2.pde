@@ -73,8 +73,8 @@ void draw()
  
   int index=0;
   translate(width/2, height/2, 0);
-  rotateX(PI/3);
-  rotateY(PI/3);
+  rotateX(PI/6);
+  rotateY(PI/6);
  
   for (int i = 0; i < num; i++) {
     pushMatrix();
