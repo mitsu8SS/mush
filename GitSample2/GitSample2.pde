@@ -3,11 +3,11 @@ int WindowHeight =480;
 
 void setup()
 {
-  background(255);
+  background(128);
   size(WindowWidth,WindowHeight);
 }
 
 void draw()
 {
-
+  
 }
